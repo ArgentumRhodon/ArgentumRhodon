@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArgentumRhodon
-- 👀 I’m interested in game development and software engineering/design.
-- 🌱 I’m currently learning C++.
+- 👀 Game & Web Developer
 - 📫 How to reach me: lac2559@g.rit.edu | rit.lucascorey@gmail.com
 
 <!---
