@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArgentumRhodon
 - 👀 Game & Web Developer
-- 📫 How to reach me: lac2559@g.rit.edu | rit.lucascorey@gmail.com
+- 📫 How to reach me: rit.lucascorey@gmail.com
 
 <!---
 ArgentumRhodon/ArgentumRhodon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
